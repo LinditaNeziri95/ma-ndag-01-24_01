@@ -1,0 +1,25 @@
+body{
+     color:burlywood;
+}
+
+p{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+@media (max-widht:550px){
+body{
+    color: blue;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+}
